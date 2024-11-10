@@ -1,0 +1,15 @@
+# secrets
+.env
+.env.*
+
+# dependencies
+node_modules
+vendor
+
+# generated
+bin
+*_templ.go
+
+# miscellaneous
+.DS_Store
+tmp
