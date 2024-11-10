@@ -8,7 +8,12 @@ vendor
 
 # generated
 bin
+dist
 *_templ.go
+*.min.css
+*.min.css.map
+*.min.js
+*.min.js.map
 
 # miscellaneous
 .DS_Store
